@@ -1,0 +1,6 @@
+[submodule "yamada-frontend"]
+	path = yamada-frontend
+	url = https://github.com/yamadadada/yamada-frontend.git
+[submodule "yamada-backend"]
+	path = yamada-backend
+	url = https://github.com/yamadadada/yamada-backend.git
