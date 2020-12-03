@@ -4,3 +4,6 @@
 [submodule "yamada-backend"]
 	path = yamada-backend
 	url = https://github.com/yamadadada/yamada-backend.git
+[submodule "yamada-spider"]
+	path = yamada-spider
+	url = https://github.com/yamadadada/yamada-spider.git
